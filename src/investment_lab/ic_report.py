@@ -48,7 +48,8 @@ def _render(root, d, source):
         span("参考 EV（不含经营租赁）",d["market_ev_usd_m"]/1000,"十亿美元","EV = 市值 + 财务净债务"),
         span("2026E EV/调整后营业利润",d["ev_to_guided_fy2026_adj_op_x"],"倍","公司全年非 GAAP 指引"),
     ])
-    sec = [
+    def sec(c):
+        return [
         "<b>" + _esc(c["name"].upper()) + "</b>", _esc(_fmt(c["fy2027_revenue_m"]/1000)) + " B",
         _esc(_fmt(c["growth_v_2026_mid_pct"]))+"%",
         _esc(_fmt(c["adj_op_margin_pct"]))+"%",
