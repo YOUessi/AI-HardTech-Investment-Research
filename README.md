@@ -78,4 +78,4 @@ Outputs include multi-scenario 5-year projections, two distinct enterprise-value
 - Negative / failed findings are preserved rather than rewritten as successes.
 - New research goes into the source ledger and documents first, then a model revision with tests.
 
-MIT license for code; facts and third-party disclosures remain attributable to their source publishers.
+Repository licensing is left to the owner to decide. Original source facts, company disclosures, and third-party material remain attributable to their publishers.
