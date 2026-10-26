@@ -18,5 +18,6 @@ jobs:
         run: |
           python run.py
           python run_ic.py
+          python run_unitree.py
       - name: Validate report output
-        run: test -s reports/model_results.json && test -s reports/index.html && test -s reports/vrt_ic_decision.json && test -s reports/vrt_ic_dashboard.html
+        run: test -s reports/model_results.json && test -s reports/index.html && test -s reports/vrt_ic_decision.json && test -s reports/vrt_ic_dashboard.html && test -s reports/unitree_ic_dashboard.html && test -s reports/ic_portfolio_overview.html
