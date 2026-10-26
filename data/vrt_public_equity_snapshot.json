@@ -1,0 +1,83 @@
+{
+  "as_of": "2026-10-27",
+  "issuer": "Vertiv Holdings Co",
+  "ticker": "VRT",
+  "quote": {
+    "date": "2026-10-23",
+    "close_usd": 194.32,
+    "source": "VRT-20261023-CLOSE",
+    "warning": "Nearest validated full-day closing quote; Oct 26 intraday data not used."
+  },
+  "capital": {
+    "shares_date": "2026-07-27",
+    "shares": 384988173,
+    "balance_date": "2026-06-30",
+    "cash_m": 2810.6,
+    "short_investments_m": 300,
+    "current_financial_debt_m": 0,
+    "long_financial_debt_m": 2939.8,
+    "current_operating_leases_m": 82,
+    "long_operating_leases_m": 316.4,
+    "source": "VRT-2026Q2-SEC"
+  },
+  "historic": {
+    "h1_revenue_m": 5923.8,
+    "q2_revenue_m": 3274.3,
+    "q2_gaap_op_m": 637.9,
+    "h1_ocf_m": 1866.6,
+    "h1_capex_m": 285.9,
+    "h1_capitalized_software_m": 2.6,
+    "h1_delta_deferred_revenue_m": 1822.7,
+    "h1_delta_inventory_m": -1048,
+    "h1_delta_ar_m": -644.2,
+    "h1_delta_ap_m": 685.3,
+    "source": "VRT-2026Q2-SEC"
+  },
+  "fy2026_guidance": {
+    "sales_low_m": 13800,
+    "sales_high_m": 14200,
+    "adjusted_op_low_m": 3285,
+    "adjusted_op_high_m": 3365,
+    "adjusted_fcf_low_m": 2400,
+    "adjusted_fcf_high_m": 2600,
+    "adjusted_eps_low": 6.65,
+    "adjusted_eps_high": 6.75,
+    "q3_sales_low_m": 3650,
+    "q3_sales_high_m": 3850,
+    "source": "VRT-2026Q2-GUIDANCE",
+    "warning": "Issuer forecast; adjusted operating profit and adjusted free cash flow are NON-GAAP, not GAAP actuals."
+  },
+  "analyst_fy2027_cases": {
+    "bear": {
+      "revenue_m": 14700,
+      "adj_op_margin": 0.215,
+      "exit_ev_adj_op_x": 16
+    },
+    "base": {
+      "revenue_m": 17200,
+      "adj_op_margin": 0.245,
+      "exit_ev_adj_op_x": 21
+    },
+    "bull": {
+      "revenue_m": 19400,
+      "adj_op_margin": 0.265,
+      "exit_ev_adj_op_x": 26
+    }
+  },
+  "ic_policy": {
+    "event_date": "2026-10-28",
+    "event": "VRT Q3 FY2026 earnings release scheduled (not yet published at as-of)",
+    "initial_decision": "WATCH / NO NEW BUY BEFORE Q3 / REPRICE AFTER OFFICIAL RESULTS",
+    "margin_of_safety": 0.25,
+    "max_post_gate_weight_nav": 0.01,
+    "max_downside_nav_budget": 0.0025,
+    "warning": "Position sizing only an example of fictional committee risk budget; no actual trades."
+  },
+  "model_limits": [
+    "Exit multiples FY2027 are analyst HYPOTHESES, not public observed comps",
+    "FY2027 share count and net cash held frozen at latest issuer observations",
+    "No probabilities or dividends, not a 12-month price target",
+    "Non-GAAP guided operating profit cannot be interpreted as GAAP EBIT or EBITDA",
+    "No diluted option awards, future acquisitions, contingencies, FX, stock comp or working-capital quality normalization incorporated"
+  ]
+}
