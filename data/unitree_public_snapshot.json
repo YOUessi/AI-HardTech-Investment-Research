@@ -1,0 +1,90 @@
+{
+  "as_of": "2026-10-27",
+  "company": "宇树科技股份有限公司",
+  "ticker": "688836",
+  "market": "SSE STAR Market",
+  "board": "科创板",
+  "listing_date": "2026-08-19",
+  "closing_date": "2026-10-26",
+  "close_cny": 672,
+  "issue_price_cny": 150.8,
+  "pricing_source": "UNIT-20261026-CLOSE",
+  "ipo_source": "UNIT-2026-SSE-LIST",
+  "risk_source": "UNIT-20261026-RISK",
+  "security_structure": {
+    "total_ordinary_shares": 404464340,
+    "unrestricted_tradeable_shares_at_listing": 30087720,
+    "restricted_shares_at_listing": 374376620,
+    "restricted_voting_shares_oct22": 44074300,
+    "special_voting_rights": true,
+    "source": "UNIT-2026-SSE-STRUCT",
+    "notice": "Listed company, not private; total shares as of SSE Oct22; 2026-10-26 price closed, free float is earliest listing benchmark, could change."
+  },
+  "financials": {
+    "fy2025": {
+      "revenue_cny_m": 1699.2693,
+      "attributable_profit_cny_m": 278.2105,
+      "nonrecurring_adjusted_profit_cny_m": 590.7528,
+      "operating_cashflow_cny_m": 669.9818,
+      "humanoid_revenue_cny_m": 867.8319,
+      "quadruped_revenue_cny_m": 697.6256,
+      "components_revenue_cny_m": 103.7367,
+      "humanoid_units_sold": 5215,
+      "report_type": "IPO prospectus audited 2025",
+      "source": "UNIT-2025-IPO-PROSPECTUS"
+    },
+    "h1_2026": {
+      "revenue_cny_m": 1152.2456,
+      "revenue_h1_2025_cny_m": 775.7192,
+      "attributable_profit_cny_m": 273.9999,
+      "ex_nonrecurring_profit_cny_m": 243.9303,
+      "ex_nonrecurring_profit_h1_2025_cny_m": 302.4335,
+      "operating_cashflow_cny_m": 231.5453,
+      "operating_cashflow_h1_2025_cny_m": 343.1936,
+      "reported_status": "H1 2026 unaudited financial statements included in August 2026 stock-listing notice; pre-IPO period",
+      "source": "UNIT-2026-H1-LISTING"
+    }
+  },
+  "issuer_risk": {
+    "trailing_pe_at_oct26": 465.22,
+    "industry_trailing_pe_at_oct26": 38.54,
+    "published_date": "2026-10-27",
+    "notice": "Company October 26/27 abnormal-price movement filing; 3 trading days >30% cumulative deviation; no undisclosed material corporate event; commercial scalability uncertain",
+    "source": "UNIT-20261026-RISK"
+  },
+  "reverse_grid": {
+    "future_fy": "hypothetical FY2027",
+    "net_profit_margin_options": [
+      0.1,
+      0.15,
+      0.2,
+      0.25,
+      0.3
+    ],
+    "exit_pe_options": [
+      30,
+      40,
+      50,
+      70,
+      100
+    ],
+    "principal_use": "Required FY2027 revenue to economically justify Oct26 2026 spot market capitalization at hypothesized P/E and net margin. Does not forecast FY2027 nor predict future share prices."
+  },
+  "policy": {
+    "decision": "WATCH / NO NEW POSITION AT REFERENCE CLOSE",
+    "reason": "Exchange abnormal-volatility notice, valuation relative to disclosed scale, limited public float, no 2026 Q3 operating results yet.",
+    "gates": [
+      "Review latest Q3 operating cash flow and gross margin with documented customer mix and aftersales exposures",
+      "Reconcile IPO net proceeds and post-listing cash to construct enterprise value from same-date financials",
+      "Demand H1 to Q3 earnings continuity and evaluate whether 2025 share-based payment distorts normalization",
+      "Separate full-size humanoid vs quadruped contribution, verified sales to paying industrial users",
+      "Monitor unlock calendar and special-voting-share rights; avoid assuming all issued shares free float"
+    ],
+    "limits": [
+      "Reverse required revenue assumes total share count constant with no future dilution",
+      "P/E and after-tax margin grid are hypothetical and not a listed comparable multiple",
+      "H1 annualization is a purely mechanical ratio, not company FY2026 earnings forecast",
+      "Issuer trailing P/E from 2026-10-26 notice is not the same as mechanical H1 annualized P/E"
+    ]
+  }
+}
