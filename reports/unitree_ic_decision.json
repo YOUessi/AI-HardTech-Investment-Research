@@ -1,0 +1,253 @@
+{
+  "as_of": "2026-10-27",
+  "ticker": "688836",
+  "listing_date": "2026-08-19",
+  "quote_date": "2026-10-26",
+  "reference_close_cny": 672.0,
+  "total_shares": 404464340,
+  "listed_initial_unrestricted_shares": 30087720,
+  "unrestricted_as_pct_total_initial": 7.4389,
+  "market_cap_cny_m": 271800.0365,
+  "market_cap_cny_bn": 271.8,
+  "issue_price_cny": 150.8,
+  "ipo_gross_proceeds_cny_m_illustrative": 6099.3222,
+  "fy2025_sales_cny_m": 1699.2693,
+  "fy2025_attributable_profit_cny_m": 278.2105,
+  "fy2025_humanoid_segment_sales_cny_m": 867.8319,
+  "fy2025_humanoid_sales_pct_of_total": 51.0709,
+  "fy2025_humanoid_units_sold": 5215,
+  "h1_2026_revenue_cny_m": 1152.2456,
+  "h1_2026_attributable_profit_cny_m": 273.9999,
+  "h1_2026_ex_nonrecurring_profit_cny_m": 243.9303,
+  "h1_2026_yoy_revenue_pct": 48.539,
+  "h1_2026_ex_nonrecurring_profit_yoy_pct": -19.3442,
+  "h1_2026_ocf_cny_m": 231.5453,
+  "h1_2026_ocf_yoy_pct": -32.5322,
+  "h1_annualized_2026_revenue_cny_m_mechanical": 2304.4912,
+  "spot_mcap_to_mechanical_h1_annualized_sales_x": 117.9436,
+  "spot_mcap_to_mechanical_h1_annualized_net_profit_x": 495.9856,
+  "spot_mcap_to_mechanical_h1_annualized_ex_net_profit_x": 557.1264,
+  "spot_mcap_to_fy2025_reported_sales_x": 159.9511,
+  "spot_mcap_to_fy2025_reported_net_profit_x": 976.9582,
+  "issuer_disclosed_trailing_pe_x": 465.22,
+  "issuer_disclosed_industry_trailing_pe_x": 38.54,
+  "issuer_trailing_pe_to_industry_ratio": 12.0711,
+  "reverse_valuation_grid": [
+    {
+      "net_margin_pct": 10.0,
+      "hypothetical_forward_pe_x": 30,
+      "required_annual_profit_cny_m": 9060.0012,
+      "required_annual_revenue_cny_m": 90600.0122,
+      "required_revenue_multiple_h1_2026_runrate": 39.3145,
+      "required_revenue_multiple_fy2025": 53.317
+    },
+    {
+      "net_margin_pct": 10.0,
+      "hypothetical_forward_pe_x": 40,
+      "required_annual_profit_cny_m": 6795.0009,
+      "required_annual_revenue_cny_m": 67950.0091,
+      "required_revenue_multiple_h1_2026_runrate": 29.4859,
+      "required_revenue_multiple_fy2025": 39.9878
+    },
+    {
+      "net_margin_pct": 10.0,
+      "hypothetical_forward_pe_x": 50,
+      "required_annual_profit_cny_m": 5436.0007,
+      "required_annual_revenue_cny_m": 54360.0073,
+      "required_revenue_multiple_h1_2026_runrate": 23.5887,
+      "required_revenue_multiple_fy2025": 31.9902
+    },
+    {
+      "net_margin_pct": 10.0,
+      "hypothetical_forward_pe_x": 70,
+      "required_annual_profit_cny_m": 3882.8577,
+      "required_annual_revenue_cny_m": 38828.5766,
+      "required_revenue_multiple_h1_2026_runrate": 16.8491,
+      "required_revenue_multiple_fy2025": 22.8502
+    },
+    {
+      "net_margin_pct": 10.0,
+      "hypothetical_forward_pe_x": 100,
+      "required_annual_profit_cny_m": 2718.0004,
+      "required_annual_revenue_cny_m": 27180.0036,
+      "required_revenue_multiple_h1_2026_runrate": 11.7944,
+      "required_revenue_multiple_fy2025": 15.9951
+    },
+    {
+      "net_margin_pct": 15.0,
+      "hypothetical_forward_pe_x": 30,
+      "required_annual_profit_cny_m": 9060.0012,
+      "required_annual_revenue_cny_m": 60400.0081,
+      "required_revenue_multiple_h1_2026_runrate": 26.2097,
+      "required_revenue_multiple_fy2025": 35.5447
+    },
+    {
+      "net_margin_pct": 15.0,
+      "hypothetical_forward_pe_x": 40,
+      "required_annual_profit_cny_m": 6795.0009,
+      "required_annual_revenue_cny_m": 45300.0061,
+      "required_revenue_multiple_h1_2026_runrate": 19.6573,
+      "required_revenue_multiple_fy2025": 26.6585
+    },
+    {
+      "net_margin_pct": 15.0,
+      "hypothetical_forward_pe_x": 50,
+      "required_annual_profit_cny_m": 5436.0007,
+      "required_annual_revenue_cny_m": 36240.0049,
+      "required_revenue_multiple_h1_2026_runrate": 15.7258,
+      "required_revenue_multiple_fy2025": 21.3268
+    },
+    {
+      "net_margin_pct": 15.0,
+      "hypothetical_forward_pe_x": 70,
+      "required_annual_profit_cny_m": 3882.8577,
+      "required_annual_revenue_cny_m": 25885.7178,
+      "required_revenue_multiple_h1_2026_runrate": 11.2327,
+      "required_revenue_multiple_fy2025": 15.2334
+    },
+    {
+      "net_margin_pct": 15.0,
+      "hypothetical_forward_pe_x": 100,
+      "required_annual_profit_cny_m": 2718.0004,
+      "required_annual_revenue_cny_m": 18120.0024,
+      "required_revenue_multiple_h1_2026_runrate": 7.8629,
+      "required_revenue_multiple_fy2025": 10.6634
+    },
+    {
+      "net_margin_pct": 20.0,
+      "hypothetical_forward_pe_x": 30,
+      "required_annual_profit_cny_m": 9060.0012,
+      "required_annual_revenue_cny_m": 45300.0061,
+      "required_revenue_multiple_h1_2026_runrate": 19.6573,
+      "required_revenue_multiple_fy2025": 26.6585
+    },
+    {
+      "net_margin_pct": 20.0,
+      "hypothetical_forward_pe_x": 40,
+      "required_annual_profit_cny_m": 6795.0009,
+      "required_annual_revenue_cny_m": 33975.0046,
+      "required_revenue_multiple_h1_2026_runrate": 14.743,
+      "required_revenue_multiple_fy2025": 19.9939
+    },
+    {
+      "net_margin_pct": 20.0,
+      "hypothetical_forward_pe_x": 50,
+      "required_annual_profit_cny_m": 5436.0007,
+      "required_annual_revenue_cny_m": 27180.0036,
+      "required_revenue_multiple_h1_2026_runrate": 11.7944,
+      "required_revenue_multiple_fy2025": 15.9951
+    },
+    {
+      "net_margin_pct": 20.0,
+      "hypothetical_forward_pe_x": 70,
+      "required_annual_profit_cny_m": 3882.8577,
+      "required_annual_revenue_cny_m": 19414.2883,
+      "required_revenue_multiple_h1_2026_runrate": 8.4245,
+      "required_revenue_multiple_fy2025": 11.4251
+    },
+    {
+      "net_margin_pct": 20.0,
+      "hypothetical_forward_pe_x": 100,
+      "required_annual_profit_cny_m": 2718.0004,
+      "required_annual_revenue_cny_m": 13590.0018,
+      "required_revenue_multiple_h1_2026_runrate": 5.8972,
+      "required_revenue_multiple_fy2025": 7.9976
+    },
+    {
+      "net_margin_pct": 25.0,
+      "hypothetical_forward_pe_x": 30,
+      "required_annual_profit_cny_m": 9060.0012,
+      "required_annual_revenue_cny_m": 36240.0049,
+      "required_revenue_multiple_h1_2026_runrate": 15.7258,
+      "required_revenue_multiple_fy2025": 21.3268
+    },
+    {
+      "net_margin_pct": 25.0,
+      "hypothetical_forward_pe_x": 40,
+      "required_annual_profit_cny_m": 6795.0009,
+      "required_annual_revenue_cny_m": 27180.0036,
+      "required_revenue_multiple_h1_2026_runrate": 11.7944,
+      "required_revenue_multiple_fy2025": 15.9951
+    },
+    {
+      "net_margin_pct": 25.0,
+      "hypothetical_forward_pe_x": 50,
+      "required_annual_profit_cny_m": 5436.0007,
+      "required_annual_revenue_cny_m": 21744.0029,
+      "required_revenue_multiple_h1_2026_runrate": 9.4355,
+      "required_revenue_multiple_fy2025": 12.7961
+    },
+    {
+      "net_margin_pct": 25.0,
+      "hypothetical_forward_pe_x": 70,
+      "required_annual_profit_cny_m": 3882.8577,
+      "required_annual_revenue_cny_m": 15531.4307,
+      "required_revenue_multiple_h1_2026_runrate": 6.7396,
+      "required_revenue_multiple_fy2025": 9.1401
+    },
+    {
+      "net_margin_pct": 25.0,
+      "hypothetical_forward_pe_x": 100,
+      "required_annual_profit_cny_m": 2718.0004,
+      "required_annual_revenue_cny_m": 10872.0015,
+      "required_revenue_multiple_h1_2026_runrate": 4.7177,
+      "required_revenue_multiple_fy2025": 6.398
+    },
+    {
+      "net_margin_pct": 30.0,
+      "hypothetical_forward_pe_x": 30,
+      "required_annual_profit_cny_m": 9060.0012,
+      "required_annual_revenue_cny_m": 30200.0041,
+      "required_revenue_multiple_h1_2026_runrate": 13.1048,
+      "required_revenue_multiple_fy2025": 17.7723
+    },
+    {
+      "net_margin_pct": 30.0,
+      "hypothetical_forward_pe_x": 40,
+      "required_annual_profit_cny_m": 6795.0009,
+      "required_annual_revenue_cny_m": 22650.003,
+      "required_revenue_multiple_h1_2026_runrate": 9.8286,
+      "required_revenue_multiple_fy2025": 13.3293
+    },
+    {
+      "net_margin_pct": 30.0,
+      "hypothetical_forward_pe_x": 50,
+      "required_annual_profit_cny_m": 5436.0007,
+      "required_annual_revenue_cny_m": 18120.0024,
+      "required_revenue_multiple_h1_2026_runrate": 7.8629,
+      "required_revenue_multiple_fy2025": 10.6634
+    },
+    {
+      "net_margin_pct": 30.0,
+      "hypothetical_forward_pe_x": 70,
+      "required_annual_profit_cny_m": 3882.8577,
+      "required_annual_revenue_cny_m": 12942.8589,
+      "required_revenue_multiple_h1_2026_runrate": 5.6164,
+      "required_revenue_multiple_fy2025": 7.6167
+    },
+    {
+      "net_margin_pct": 30.0,
+      "hypothetical_forward_pe_x": 100,
+      "required_annual_profit_cny_m": 2718.0004,
+      "required_annual_revenue_cny_m": 9060.0012,
+      "required_revenue_multiple_h1_2026_runrate": 3.9315,
+      "required_revenue_multiple_fy2025": 5.3317
+    }
+  ],
+  "decision": "WATCH / NO NEW POSITION AT REFERENCE CLOSE",
+  "decision_reason": "Exchange abnormal-volatility notice, valuation relative to disclosed scale, limited public float, no 2026 Q3 operating results yet.",
+  "gates": [
+    "Review latest Q3 operating cash flow and gross margin with documented customer mix and aftersales exposures",
+    "Reconcile IPO net proceeds and post-listing cash to construct enterprise value from same-date financials",
+    "Demand H1 to Q3 earnings continuity and evaluate whether 2025 share-based payment distorts normalization",
+    "Separate full-size humanoid vs quadruped contribution, verified sales to paying industrial users",
+    "Monitor unlock calendar and special-voting-share rights; avoid assuming all issued shares free float"
+  ],
+  "limitations": [
+    "Reverse required revenue assumes total share count constant with no future dilution",
+    "P/E and after-tax margin grid are hypothetical and not a listed comparable multiple",
+    "H1 annualization is a purely mechanical ratio, not company FY2026 earnings forecast",
+    "Issuer trailing P/E from 2026-10-26 notice is not the same as mechanical H1 annualized P/E"
+  ],
+  "ev_status": "UNAVAILABLE: Post-IPO company cash/debt, restricted cash, leases and other adjustments not verified at a common balance date; do not present price/book/synthetic EV as audited enterprise value."
+}
