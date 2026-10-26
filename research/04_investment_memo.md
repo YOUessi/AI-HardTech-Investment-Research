@@ -230,12 +230,12 @@ This memo contains **no share-price targets**, no claims about Unitree's audited
 **Source register:** [data/evidence.csv](../data/evidence.csv). Dated filings include:
 
 - [IEA 2026 Key Questions on Energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary).
-- [NVIDIA Q2 FY2027 release, Aug 26 2026](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/).
+- [NVIDIA Q2 FY2027 release, Aug 26 2026](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027/).
 - [AMD Q2 2026 release, Aug 4 2026](https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results).
 - [Vertiv Q2 2026 release, Jul 29 2026](https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Second-Quarter-2026-with-Diluted-EPS-Growth-of-53-Adjusted-Diluted-EPS-Growth-of-60-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx).
-- [CoreWeave Q2 2026 release](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx).
+- [CoreWeave Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm).
 - [UBTECH 2026 interim disclosure index](https://www.ubtrobot.com/en/announce) with data cross-checked against [filing text mirror](https://financialfilings.com/filings/ubtech-robotics-corp-ltd/interim-quarterly-report/2026/61290635/).
-- [IFR 2026 humanoid robot scope](https://ifr.org/ifr-press-releases/news/robotics-1).
+- [IFR 2026 humanoid robot scope](https://ifr.org/ifr-press-releases/global-sales-of-professional-service-robots-surge-24-percent).
 - [Unitree manufacturer shop listing](https://shop.unitree.com/collections/humanoid-robot).
 
 **Recommendation:** Maintain a **watchlist; do not invest on this packet alone**. Use the technology experiments and required evidence list to turn hypotheses into verifiable underwriting.

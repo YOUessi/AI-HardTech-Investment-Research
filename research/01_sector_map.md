@@ -83,7 +83,7 @@ Skipping stages creates valuation risk.
 ## Primary references
 
 - [IEA 2026 demand and power constraints](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary)
-- [IFR 2026 professional service and humanoid units](https://ifr.org/ifr-press-releases/news/robotics-1)
+- [IFR 2026 professional service and humanoid units](https://ifr.org/ifr-press-releases/global-sales-of-professional-service-robots-surge-24-percent)
 - [Counterpoint H1 2026 market research](https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026)
-- [CoreWeave Q2 2026 financials](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx)
+- [CoreWeave Q2 2026 financials](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm)
 - [Unitree official store](https://shop.unitree.com/collections/humanoid-robot)
