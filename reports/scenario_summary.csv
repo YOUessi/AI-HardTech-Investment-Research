@@ -1,0 +1,7 @@
+sector,scenario,fy2030_revenue_usd_m,fy2030_ebitda_usd_m,pv_annual_cashflows_usd_m,pv_terminal_usd_m,enterprise_value_usd_m,equity_value_usd_m,terminal_metric
+inference_infra,bear,19.021464,-0.818866,-66.265453,0.0,-66.265453,-71.265453,terminal EBITDA x illustrative EV/EBITDA
+inference_infra,base,73.681236,41.372682,-45.255532,133.014024,87.758492,82.758492,terminal EBITDA x illustrative EV/EBITDA
+inference_infra,bull,177.22575,122.571765,-6.366186,559.06349,552.697304,547.697304,terminal EBITDA x illustrative EV/EBITDA
+humanoid_robotics,bear,39.51576,-12.298854,-26.822071,8.874486,-17.947585,-18.947585,terminal revenue x synthetic EV/revenue
+humanoid_robotics,base,137.03152,7.362293,-22.493881,74.65766,52.163779,51.163779,terminal revenue x synthetic EV/revenue
+humanoid_robotics,bull,283.688,59.58832,-2.505528,282.145702,279.640175,278.640175,terminal revenue x synthetic EV/revenue
