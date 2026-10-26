@@ -1,7 +1,7 @@
 # 01 — Industry map: where does value accrue?
 
 **As-of:** 2026-10-27 · **Scope:** data-center inference infrastructure and full-size/other humanoid robots.
-Numbers labelled [E#] refer to individual rows of [the evidence ledger](../data/evidence.csv). This report is *not* a price target or a declaration that any private company has an audited P&L.
+Numbers labelled [E#] refer to individual rows of [the evidence ledger](../data/evidence.csv). This report is *not* a price target and its fictional financial models are not statements about a real company's P&L. **Unitree listed publicly on 2026-08-19 (688836.SH); see [real Unitree IC](09_unitree_688836_real_public_countercase.md).**
 
 ## 1. Investment question and falsifiable hypotheses
 

@@ -50,11 +50,11 @@ NVIDIA's disclosed gross margin **75%** (GAAP); AMD's **54%**; UBTECH overall **
 - **Diligence:** contracted vs collected GPU hours, take-or-pay guarantees, downtime penalties, cohort useful lives, collateral and power costs.
 - **Accounting caution:** CoreWeave Q2 2026 shows USD879m cost of revenue plus **USD1,507m technology and infrastructure costs** below that line. Do not take USD(2575−879)/2575 as all-in rental economics [CW-2026Q2-INFRA].
 
-### Unitree (private)
+### Unitree (public: 688836.SH, STAR Market listed 2026-08-19)
 
 - **Economic role:** low entry price humanoid and quadruped platforms plus components.
 - **Verified:** official shop *from* USD13,500 G1; *from* USD4,900 R1 [UNITREE-G1-PRICE, UNITREE-R1-PRICE].
-- **Unknown from checked sources:** verified quarterly P&L, net debt, gross margin, cash burn, customer concentration and serial-number sell-through. **Not filled in.**
+- **Correction (2026-10-27 source audit):** Unitree completed its STAR Market IPO on 2026-08-19 (688836). Its FY2025 IPO audited financials and unaudited H1 2026 earnings ARE PUBLIC. Consult [real Unitree market IC](09_unitree_688836_real_public_countercase.md) rather than claiming no reported revenue/profit. Still missing **post-IPO matched-date enterprise net debt, cash, working capital and paid industrial use by customer**, so we do not fabricate EV or post-IPO financial ratios.
 - **Diligence:** manufacturing yield, electronics/actuator BOM, paid repeat deployments vs educational/research usage, in-field warranty and safety.
 
 ### UBTECH (9880.HK)
@@ -74,7 +74,7 @@ Do **not** insert fabricated EV/Revenue multiples. First collect, for the **same
 4. Fiscal-year alignment and currency conversion with dated FX source; beware stale price vs latest filing.
 5. Adjustments for recurring services vs capital intensity, customer concentration and growth/quality of earnings.
 
-Even a date-aligned public-company multiple should not be blindly applied to an unaudited private robot or GPU rental business.
+Even a date-aligned public-company multiple should not be blindly applied to an invented robot OEM or GPU rental business. Unitree IS public as of 2026-08-19; its source-backed financial disclosure and reverse hurdle are handled separately.
 
 ## 4. Relative technical-economic comparison (analyst questions)
 

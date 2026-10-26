@@ -4,11 +4,24 @@
 
 This repository is an **investment-research exercise** for the type of work done by technology venture investors, infrastructure diligence teams, and financial incubator analysts. It studies **AI inference infrastructure** and **humanoid robotics** through dated public disclosures, technical due diligence, transparent assumptions, and reproducible valuation models.
 
+## Publicly traded, issuer-evidence-based investment committee cases (2026-10-27)
+
+**NEW: these are the primary research deliverables.** The older 2026–2030 cloud/robotics financial models below remain expressly *fictional training exercises* and must not be confused with the following actual-company research.
+
+- **Vertiv Holdings (NYSE: VRT):** [Chinese public-equity IC memo](research/07_vrt_public_market_ic_20261027.md), [offline full IC dashboard](reports/vrt_ic_dashboard.html), [US SEC and market evidence](data/vrt_evidence.csv), [point-in-time actual and analyst scenario data](data/vrt_public_equity_snapshot.json). Uses 2026-10-23 last validated NYSE close and issuer Q2 disclosure; **NO NEW POSITION prior to 2026-10-28 announced results** (simulated IC decision, not trading advice).
+- **Unitree Technology (688836.SH):** [Chinese listed-company IC memo](research/09_unitree_688836_real_public_countercase.md), [offline reverse valuation and source dashboard](reports/unitree_ic_dashboard.html), [IPO/earnings evidence](data/unitree_evidence.csv), [equity inputs](data/unitree_public_snapshot.json). **Important: Unitree LISTED 2026-08-19.** As-of 2026-10-26 Shanghai closing price and 2026-10-27 issuer abnormal-movement warning motivate **WATCH / NO POSITION**.
+- **[Two-case offline IC overview](reports/ic_portfolio_overview.html)**, [evidence audit and corrections](research/08_point_in_time_source_audit.md), [all source ledger corrections](data/source_audit_20261027.csv).
+- **Execute on Python 3.9+:** `python3 -m unittest discover -s tests -v`; `python3 run.py`; `python3 run_ic.py`; `python3 run_unitree.py`.
+
+**No real trades are authorized; no private customer interviews or confidential due diligence are claimed.** Issuer data are historical facts, market quotes dated, 2027 estimates explicitly hypothetical. The October 28 VRT Q3 event must be incorporated before fresh IC approval.
+
+---
+
 ## Research question
 
 **Where does sustainable value accrue when AI inference demand expands, and when can humanoid robotics turn pilot demand into repeatable unit economics?**
 
-The project deliberately separates *industry facts*, *technical hypotheses*, *hypothetical private-company assumptions*, and *analyst conclusions*. It does **not** assign fabricated revenue, margins, contracts, cap tables, or valuations to private robotics companies.
+The project separates *industry facts*, *technical hypotheses*, *hypothetical financial scenarios*, and *analyst conclusions*. Unitree was listed in August 2026; its actual disclosed IPO financials are analyzed in a separate real public-market case, not in the fictional economics models.
 
 ## Key dated public anchors
 

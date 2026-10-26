@@ -4,7 +4,9 @@
 
 **Prepared:** 2026-10-27 | **Decision requested:** Authorization for targeted diligence, **not authorization to invest** | **Currency:** Public filings retain disclosed currency; numerical synthetic financial models are in USD millions.
 
-**Status:** PUBLIC-RESEARCH STAGE — **WATCH / CONDITIONAL DILIGENCE ONLY.**
+**Status:** HISTORICAL INDUSTRY / SYNTHETIC-SCENARIO APPENDIX — see [real VRT IC](07_vrt_public_market_ic_20261027.md) and [real listed Unitree IC](09_unitree_688836_real_public_countercase.md) for decision-ready public-market analysis.
+
+> **Time-cutoff correction:** Unitree listed on the SSE STAR Market on 2026-08-19 (688836). This older cross-sector memo's example company cashflow models remain hypothetical; they do NOT represent Unitree's actual sales/profits.
 
 > The computed enterprise values are for TWO FICTIONAL businesses with explicit invented assumptions. They do not value NVIDIA, AMD, Vertiv, CoreWeave, UBTECH or Unitree. The market has no duty to trade at our synthetic estimates. Historical public data is confined to the dated evidence ledger.
 
@@ -19,7 +21,7 @@ Allocate research and interview resources to **two theses**:
 1. **Inference infrastructure enablement and utilization software**: prioritize verified power access, sustainable delivered tokens/$ and multi-vintage GPU fleet economics over generic sector-capex stories. Favor durable site/power bottleneck solutions and cash-efficient software leverage; be cautious about leveraged GPU-hour resale without differentiated procurement and service guarantees.
 2. **Humanoid robotics for narrow paid workflows**: prioritize repeatable autonomous task completion and customer cost savings over shipment counts, demo performance and posted hardware prices. Treat industrial deployment as an engineering and change-management integration problem first, before broad general-purpose robotics monetization.
 
-Current evidence supports **sector growth and technical opportunity**, but does not clear investment gates for a specific private target. Public market data alone cannot establish margin durability, target company enterprise value, liquidation terms, or customer concentration.
+Current evidence supports **sector growth and technical opportunity**, but does not clear investment gates for any specific target without financial and operational diligence. Public market data alone cannot establish margin durability, target company enterprise value, liquidation terms, or customer concentration.
 
 ### Strongest observed anchors
 
@@ -55,7 +57,7 @@ Actuators/reducers → motors/drivers → cameras/IMU/edge compute → whole-bod
 
 The buyer is not always the operator. Early procurement can be an R&D/pilot budget, marketing effort or public-sector demonstration. Track **signed POs, accepted installed units, paid active hours, and renewals** separately.
 
-Unitree’s publicly advertised entry prices ($13,500 for G1, $4,900 for R1) are **NOT** evidence of delivered ASP, BOM, profit, unit sales or recurring service attach. Company/private financials remain unknown.
+Unitree’s publicly advertised entry prices ($13,500 for G1, $4,900 for R1) are **NOT** evidence of delivered ASP, BOM, profit, unit sales or recurring service attach. The manufacturer publicly listed 2026-08-19; FY2025 audited and H1 2026 unaudited accounts are now available, although individual model-level cost and realised ASP for newer products require company disclosures. See real Unitree market IC.
 
 ---
 
@@ -225,7 +227,7 @@ For robotics: multiple paying sites sustain autonomous task throughput and accep
 
 ## 10. Valuation discipline and sources
 
-This memo contains **no share-price targets**, no claims about Unitree's audited margins or number of funded customers, and no fake public traded EV multiples. The two models are genuinely executable but educational. Their primary purpose is to demonstrate risk decomposition and quantify sensitivity to **clearly unverified assumptions**.
+This **synthetic appendix** contains no share-price targets and makes no claim to value Unitree; see separate first-hand filing-backed publicly traded Unitree research for audited FY2025 revenue and financial valuation hurdles. It uses no fabricated public trading EV multiples. The two models are genuinely executable but educational. Their primary purpose is to demonstrate risk decomposition and quantify sensitivity to **clearly unverified assumptions**.
 
 **Source register:** [data/evidence.csv](../data/evidence.csv). Dated filings include:
 

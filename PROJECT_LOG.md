@@ -63,3 +63,12 @@ This is **complete as a public-data, reproducible simulated investment research 
 Required if upgraded for a real deal: actual customer contracts, powered fleet/use, debt terms, chip lifetimes, utility bills, robot autonomous field performance, product BOM / warranty and audited capitalization. See research/06_ic_questions.md.
 
 **Do not state:** "we completed a proprietary financial or customer audit," "we verified a robot's industrial ROI," "Unitree has the synthetic scenario margins," or "a negative synthetic DCF is a negative market stock price."
+
+## 2026-10-27 upgrade: public-market IC evidence
+
+- Found and corrected major historical mistake: **Unitree became STAR Market listed (688836) on Aug 19 2026**. Prior private-company wording has been explicitly corrected and an issuer-backed valuation hurdle documented.
+- VRT now has dated real price, issuer equity count, balance-sheet and SEC cash-flow quality analysis, frozen pre-Q3 earnings event, and documented 2027 analyst scenarios.
+- Unitree actual IPO 2025 audited vs H1 2026 unaudited results and 2026-10-26 RMB672 settled quote underpin market cap and reverse growth hurdle. **The 2026 Q3 actual/real client autonomy field audits are not claimed.**
+- `data/source_audit_20261027.csv`, `research/08_point_in_time_source_audit.md`, `research/07_...`, `research/09_...` track point-in-time evidence and former source errors.
+- New `run_ic.py` and `run_unitree.py` generate separate offline HTML dashboards plus JSON/CSV. Updated GitHub Actions workflow tests both; Mac tests have run 41/41 prior to later edits.
+- Maintained original simulated cashflows as appendices; real-company valuations are distinct models and require later official Q3 (Vertiv Oct28) refresh and governance/liquidity audits (Unitree).
