@@ -1,0 +1,216 @@
+{
+  "ticker": "VRT",
+  "as_of": "2026-10-27",
+  "quote_as_of": "2026-10-23",
+  "reference_price_usd": 194.32,
+  "share_count_m": 384.988173,
+  "market_cap_usd_m": 74810.902,
+  "gross_financial_debt_m": 2939.8,
+  "cash_and_st_investments_m": 3110.6,
+  "net_financial_debt_m": -170.8,
+  "market_ev_usd_m": 74640.102,
+  "market_ev_including_operating_leases_m": 75038.502,
+  "operating_lease_liabilities_m": 398.4,
+  "fy2026_company_guidance_sales_m": 14000.0,
+  "fy2026_company_guidance_adj_op_m": 3325.0,
+  "fy2026_company_guidance_adj_fcf_m": 2500.0,
+  "fy2026_company_guidance_adj_eps": 6.7,
+  "ev_to_guided_fy2026_adj_op_x": 22.448,
+  "ev_to_guided_fy2026_sales_x": 5.331,
+  "market_cap_to_guided_fy2026_adj_fcf_x": 29.924,
+  "share_price_to_guided_fy2026_adj_eps_x": 29.003,
+  "h1_2026_observed_ocf_m": 1866.6,
+  "h1_2026_reported_fcf_ex_acquisitions_m": 1578.1,
+  "h1_2026_deferred_revenue_wc_uplift_m": 1822.7,
+  "fcf_less_deferred_revenue_wc_illustrative_m": -244.6,
+  "cashflow_quality_warning": "Single deferred-revenue adjustment is only a stress diagnostic, NOT normalised GAAP FCF; other WC and operating components are not normalized.",
+  "h2_2026_implied_revenue_m": 8076.2,
+  "q3_2026_sales_guidance_mid_m": 3750.0,
+  "q4_2026_revenue_implied_m": 4326.2,
+  "q4_seq_growth_from_q3_mid_pct": 15.365,
+  "cases": [
+    {
+      "name": "bear",
+      "fy2027_revenue_m": 14700.0,
+      "growth_v_2026_mid_pct": 5.0,
+      "adj_op_margin_pct": 21.5,
+      "fy2027_adj_op_m": 3160.5,
+      "exit_ev_adj_op_x": 16.0,
+      "exit_ev_m": 50568.0,
+      "exit_equity_m": 50738.8,
+      "illustrative_fy2027_price_usd": 131.793,
+      "price_change_from_reference_pct": -32.177
+    },
+    {
+      "name": "base",
+      "fy2027_revenue_m": 17200.0,
+      "growth_v_2026_mid_pct": 22.857,
+      "adj_op_margin_pct": 24.5,
+      "fy2027_adj_op_m": 4214.0,
+      "exit_ev_adj_op_x": 21.0,
+      "exit_ev_m": 88494.0,
+      "exit_equity_m": 88664.8,
+      "illustrative_fy2027_price_usd": 230.305,
+      "price_change_from_reference_pct": 18.519
+    },
+    {
+      "name": "bull",
+      "fy2027_revenue_m": 19400.0,
+      "growth_v_2026_mid_pct": 38.571,
+      "adj_op_margin_pct": 26.5,
+      "fy2027_adj_op_m": 5141.0,
+      "exit_ev_adj_op_x": 26.0,
+      "exit_ev_m": 133666.0,
+      "exit_equity_m": 133836.8,
+      "illustrative_fy2027_price_usd": 347.639,
+      "price_change_from_reference_pct": 78.9
+    }
+  ],
+  "sensitivity": [
+    {
+      "operating_margin_pct": 20.5,
+      "ev_adj_op_x": 14,
+      "illustrative_price_usd": 128.666
+    },
+    {
+      "operating_margin_pct": 20.5,
+      "ev_adj_op_x": 18,
+      "illustrative_price_usd": 165.301
+    },
+    {
+      "operating_margin_pct": 20.5,
+      "ev_adj_op_x": 21,
+      "illustrative_price_usd": 192.777
+    },
+    {
+      "operating_margin_pct": 20.5,
+      "ev_adj_op_x": 24,
+      "illustrative_price_usd": 220.253
+    },
+    {
+      "operating_margin_pct": 20.5,
+      "ev_adj_op_x": 28,
+      "illustrative_price_usd": 256.888
+    },
+    {
+      "operating_margin_pct": 22.5,
+      "ev_adj_op_x": 14,
+      "illustrative_price_usd": 141.175
+    },
+    {
+      "operating_margin_pct": 22.5,
+      "ev_adj_op_x": 18,
+      "illustrative_price_usd": 181.384
+    },
+    {
+      "operating_margin_pct": 22.5,
+      "ev_adj_op_x": 21,
+      "illustrative_price_usd": 211.541
+    },
+    {
+      "operating_margin_pct": 22.5,
+      "ev_adj_op_x": 24,
+      "illustrative_price_usd": 241.698
+    },
+    {
+      "operating_margin_pct": 22.5,
+      "ev_adj_op_x": 28,
+      "illustrative_price_usd": 281.907
+    },
+    {
+      "operating_margin_pct": 24.5,
+      "ev_adj_op_x": 14,
+      "illustrative_price_usd": 153.685
+    },
+    {
+      "operating_margin_pct": 24.5,
+      "ev_adj_op_x": 18,
+      "illustrative_price_usd": 197.468
+    },
+    {
+      "operating_margin_pct": 24.5,
+      "ev_adj_op_x": 21,
+      "illustrative_price_usd": 230.305
+    },
+    {
+      "operating_margin_pct": 24.5,
+      "ev_adj_op_x": 24,
+      "illustrative_price_usd": 263.143
+    },
+    {
+      "operating_margin_pct": 24.5,
+      "ev_adj_op_x": 28,
+      "illustrative_price_usd": 306.926
+    },
+    {
+      "operating_margin_pct": 26.5,
+      "ev_adj_op_x": 14,
+      "illustrative_price_usd": 166.194
+    },
+    {
+      "operating_margin_pct": 26.5,
+      "ev_adj_op_x": 18,
+      "illustrative_price_usd": 213.551
+    },
+    {
+      "operating_margin_pct": 26.5,
+      "ev_adj_op_x": 21,
+      "illustrative_price_usd": 249.069
+    },
+    {
+      "operating_margin_pct": 26.5,
+      "ev_adj_op_x": 24,
+      "illustrative_price_usd": 284.587
+    },
+    {
+      "operating_margin_pct": 26.5,
+      "ev_adj_op_x": 28,
+      "illustrative_price_usd": 331.945
+    },
+    {
+      "operating_margin_pct": 28.5,
+      "ev_adj_op_x": 14,
+      "illustrative_price_usd": 178.704
+    },
+    {
+      "operating_margin_pct": 28.5,
+      "ev_adj_op_x": 18,
+      "illustrative_price_usd": 229.635
+    },
+    {
+      "operating_margin_pct": 28.5,
+      "ev_adj_op_x": 21,
+      "illustrative_price_usd": 267.834
+    },
+    {
+      "operating_margin_pct": 28.5,
+      "ev_adj_op_x": 24,
+      "illustrative_price_usd": 306.032
+    },
+    {
+      "operating_margin_pct": 28.5,
+      "ev_adj_op_x": 28,
+      "illustrative_price_usd": 356.964
+    }
+  ],
+  "illustrative_max_entry_usd": 172.729,
+  "reference_above_entry_gate": true,
+  "illustrative_risk_based_post_gate_weight_pct_nav": 1.0,
+  "illustrative_bear_drawdown_from_entry_pct": 23.699,
+  "event_gate": {
+    "event_date": "2026-10-28",
+    "event": "VRT Q3 FY2026 earnings release scheduled (not yet published at as-of)",
+    "initial_decision": "WATCH / NO NEW BUY BEFORE Q3 / REPRICE AFTER OFFICIAL RESULTS",
+    "margin_of_safety": 0.25,
+    "max_post_gate_weight_nav": 0.01,
+    "max_downside_nav_budget": 0.0025,
+    "warning": "Position sizing only an example of fictional committee risk budget; no actual trades."
+  },
+  "model_limits": [
+    "Exit multiples FY2027 are analyst HYPOTHESES, not public observed comps",
+    "FY2027 share count and net cash held frozen at latest issuer observations",
+    "No probabilities or dividends, not a 12-month price target",
+    "Non-GAAP guided operating profit cannot be interpreted as GAAP EBIT or EBITDA",
+    "No diluted option awards, future acquisitions, contingencies, FX, stock comp or working-capital quality normalization incorporated"
+  ]
+}
