@@ -1,0 +1,6 @@
+"company","period","months","currency","revenue_m","gaap_operating_income_m","gaap_gross_margin_percent","source_revenue_id","source_op_id","source_gm_id","comparison_warning"
+"NVIDIA","FY2027 Q2 ended 2026-07-26","3","USD","96221","63734","75","NV-FY27-Q2-REV","NV-FY27-Q2-OP","NV-FY27-Q2-GM","GPU hardware/software ecosystem; fiscal-period naming; not a GPU-hour SaaS provider"
+"AMD","2026 Q2 ended 2026-06-27","3","USD","11536","1990","54","AMD-2026Q2-REV","AMD-2026Q2-OP","AMD-2026Q2-GM","CPU/GPU vendor with several business segments"
+"Vertiv","2026 Q2 ended 2026-06-30","3","USD","3274.3","638","","VRT-2026Q2-SALES","VRT-2026Q2-OP","","Cooling/power supplier; not an operator"
+"CoreWeave","2026 Q2 ended 2026-06-30","3","USD","2575","-49","","CW-2026Q2-REV","CW-2026Q2-OP","","Tech and Infrastructure costs of USD1507m are below reported cost of revenue"
+"UBTECH","H1 2026 ended 2026-06-30","6","RMB","1269.13","-279.093","44.7","UBT-H1-REV","UBT-H1-OP","UBT-H1-GP","Currency RMB; six months not a quarter; multiple product categories including robotics"
